@@ -6,6 +6,7 @@
   <img alt="Coverity Scan Build Status"
        src="https://scan.coverity.com/projects/6025/badge.svg"/>
 </a>
+[![CodeShip]](https://codeship.com/projects/5a322090-b87a-0133-a112-725e639a8d9a/status?branch=add_project_features)
 
 
 
